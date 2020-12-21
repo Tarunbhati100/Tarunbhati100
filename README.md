@@ -9,12 +9,12 @@
 <h1 align="center">Hi 👋, I'm Tarun Bhati</h1>
 <h3 align="center">A passionate App developer from India</h3>
 <p><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width:100%;"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarunbhai100&label=Profile%20views&color=0e75b6&style=flat" alt="Tarunbhai100" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarunbhai100&label=Profile%20views&color=0e75b6&style=flat" alt="Tarunbhati100" /> </p> 
 
 
 <p>- 🌱 I’m currently learning App Development<br>
 - 👯 I’m looking to collaborate on flutter projects<br>
-- 👨‍💻 All of my projects are available at [https://github.com/Tarunbhai100]<br>
+- 👨‍💻 All of my projects are available at [https://github.com/Tarunbhati100]<br>
 - 📫 How to reach me **tarunbhati17@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
