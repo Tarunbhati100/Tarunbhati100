@@ -5,17 +5,17 @@
 
 <h1 align="center">Hi 👋, I'm Tarun Bhati</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width:100%;"></a></p>
+<p><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width:100%;"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarunbhai100&label=Profile%20views&color=0e75b6&style=flat" alt="Tarunbhai100" /> </p>
 
 
-- 🌱 I’m currently learning App Dvelopment
+<p>- 🌱 I’m currently learning App Dvelopment</p>
 
-- 👯 I’m looking to collaborate on flutter projects
+<p>- 👯 I’m looking to collaborate on flutter projects</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tarunbhai100](https://github.com/Tarunbhai100)
+<p>- 👨‍💻 All of my projects are available at [https://github.com/Tarunbhai100](https://github.com/Tarunbhai100)</p>
 
-- 📫 How to reach me **tarunbhati17@gmail.com**
+<p>- 📫 How to reach me **tarunbhati17@gmail.com**</p>
 
 
 ### Blogs posts
