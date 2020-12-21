@@ -3,6 +3,11 @@
 <!--
 **Tarunbhati100/Tarunbhati100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h1 align="center">Hi 👋, I'm Tarun Bhati</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <p><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width:100%;"></p>
@@ -13,11 +18,6 @@
 - 👯 I’m looking to collaborate on flutter projects<br>
 - 👨‍💻 All of my projects are available at [https://github.com/Tarunbhai100](https://github.com/Tarunbhai100)<br>
 - 📫 How to reach me **tarunbhati17@gmail.com**</p>
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
