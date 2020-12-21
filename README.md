@@ -14,8 +14,8 @@
 
 <p>- 🌱 I’m currently learning App Development<br>
 - 👯 I’m looking to collaborate on flutter projects<br>
-- 👨‍💻 All of my projects are available at [https://github.com/Tarunbhati100]<br>
-- 📫 How to reach me **tarunbhati17@gmail.com**</p>
+- 👨‍💻 All of my projects are available at https://github.com/Tarunbhati100<br>
+- 📫 How to reach me tarunbhati17@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
