@@ -7,7 +7,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h1 align="center">Hi 👋, I'm Tarun Bhati</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <p><img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="max-width:100%;"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarunbhai100&label=Profile%20views&color=0e75b6&style=flat" alt="Tarunbhati100" /> </p> 
 
